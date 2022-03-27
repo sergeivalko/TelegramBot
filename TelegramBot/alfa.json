@@ -1,0 +1,114 @@
+﻿{
+  "filterData": {
+    "dateInputData": { "dateMin": "2010-01-01", "dateMax": "2022-03-27" }
+  },
+  "initialItems": [
+    {
+      "title": "\u041a\u0443\u0440\u0441\u044b \u0432\u0430\u043b\u044e\u0442 \u0432 \u0410\u043b\u044c\u0444\u0430-\u041a\u043b\u0438\u043a \u0438 InSync \u043d\u0430 26.03.2022",
+      "address": "",
+      "titleCaption": "\u041f\u043e \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044f\u043c \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0415\u0420\u0418\u041f \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043a\u0443\u0440\u0441, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u0434\u043b\u044f \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439 \u0441 \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0430\u043c\u0438",
+      "conversionActivatorText": "\u041a\u0443\u0440\u0441\u044b \u043a\u043e\u043d\u0432\u0435\u0440\u0441\u0438\u0438 \u0431\u0435\u0437\u043d\u0430\u043b\u0438\u0447\u043d\u044b\u0445 \u0432\u0430\u043b\u044e\u0442 \u0432 InSync \u0438 \u0410\u043b\u044c\u0444\u0430-\u041a\u043b\u0438\u043a",
+      "currenciesData": [
+        {
+          "text": "08:00",
+          "date": "2022-03-26 08:00:00",
+          "value": {
+            "exchangeRate": [
+              {
+                "title": "1 \u0414\u043e\u043b\u043b\u0430\u0440 \u0421\u0428\u0410 (USD)",
+                "icon": "USD",
+                "purchase": { "value": "3.1500", "change": 0 },
+                "sell": { "value": "3.2400", "change": 0 }
+              },
+              {
+                "title": "1 \u0415\u0432\u0440\u043e (EUR)",
+                "icon": "EUR",
+                "purchase": { "value": "3.4500", "change": 0 },
+                "sell": { "value": "3.5600", "change": 0 }
+              },
+              {
+                "title": "100 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0440\u0443\u0431\u043b\u0435\u0439 (RUB)",
+                "icon": "RUB",
+                "purchase": { "value": "2.0000", "change": 0 },
+                "sell": { "value": "3.6000", "change": 0 }
+              }
+            ],
+            "conversionRate": [
+              {
+                "title": "EUR/USD",
+                "purchase": { "value": "1.0750", "change": null },
+                "sell": { "value": "1.1250", "change": null }
+              },
+              {
+                "title": "EUR/RUB",
+                "purchase": { "value": "96.0000", "change": null },
+                "sell": { "value": "178.0000", "change": null }
+              },
+              {
+                "title": "USD/RUB",
+                "purchase": { "value": "88.0000", "change": null },
+                "sell": { "value": "162.0000", "change": null }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "\u041a\u0443\u0440\u0441\u044b \u0432\u0430\u043b\u044e\u0442 \u043f\u043e \u0443\u0441\u043b\u0443\u0433\u0435 A-\u041a\u0443\u0440\u0441 \u043d\u0430 25.03.2022",
+      "address": "",
+      "titleCaption": "",
+      "conversionActivatorText": "",
+      "currenciesData": [
+        {
+          "text": "08:14",
+          "date": "2022-03-25 08:14:00",
+          "value": {
+            "exchangeRate": [
+              {
+                "title": "1 \u0414\u043e\u043b\u043b\u0430\u0440 \u0421\u0428\u0410 (USD)",
+                "icon": "USD",
+                "purchase": { "value": "3.1850", "change": 0.015 },
+                "sell": { "value": "3.1850", "change": 0.015 }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "\u041a\u0443\u0440\u0441\u044b \u0432\u0430\u043b\u044e\u0442 (\u0443\u0441\u043b\u0443\u0433\u0430 \u0422\u0440\u0430\u043d\u0441\u0444\u0435\u0440) \u043d\u0430 26.03.2022",
+      "address": "",
+      "titleCaption": "",
+      "conversionActivatorText": "",
+      "currenciesData": [
+        {
+          "text": "08:00",
+          "date": "2022-03-26 08:00:00",
+          "value": {
+            "exchangeRate": [
+              {
+                "title": "1 \u0414\u043e\u043b\u043b\u0430\u0440 \u0421\u0428\u0410 (USD)",
+                "icon": "USD",
+                "purchase": { "value": "3.1500", "change": 0 },
+                "sell": { "value": "3.2500", "change": 0 }
+              },
+              {
+                "title": "1 \u0415\u0432\u0440\u043e (EUR)",
+                "icon": "EUR",
+                "purchase": { "value": "3.4500", "change": 0 },
+                "sell": { "value": "3.5700", "change": 0 }
+              },
+              {
+                "title": "100 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0440\u0443\u0431\u043b\u0435\u0439 (RUB)",
+                "icon": "RUB",
+                "purchase": { "value": "2.0000", "change": 0 },
+                "sell": { "value": "3.6000", "change": 0 }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
