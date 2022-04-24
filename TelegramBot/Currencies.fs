@@ -146,6 +146,7 @@ module AlfaProvider =
         let fullInfo = getFullInformation inSyncInfo aCurrencyInfo transferInfo
         fullInfo
 
+[<RequireQualifiedAccess>]
 module PriorProvider =
 
     [<Literal>]
