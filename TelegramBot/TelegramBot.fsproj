@@ -7,9 +7,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Content Include="alfa.json" />
         <Compile Include="Types.fs" />
-        <Compile Include="Currencies.fs" />
+        <Content Include="BankProviders\Example\alfa.json" />
+        <Compile Include="BankProviders\AlfaBankProvider.fs" />
+        <Compile Include="BankProviders\PriorBankProvider.fs" />
+        <Compile Include="CurrenciesKeyboard.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
